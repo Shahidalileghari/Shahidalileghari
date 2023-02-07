@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahid Ali</h1>
 <h3 align="center">A passionate java developer from Pakistan</h3>
 <img aling="right" alt="coding" width="400" src"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEme6sCJc8t4_eAI5uIiVFJrk5soI4-q9TcZkiKcMB8oZJjiWR3ktZ7ef5hLuO8arBDA4&usqp=CAU">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shahidali&label=Profile%20views&color=0e75b6&style=flat" alt="shahidali" /> </p>
+<img src="https://komarev.com/ghpvc/?username=shahidali&label=Profile%20views&color=0e75b6&style=flat" alt="shahidali" /> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidali" alt="shahidali" /></a> </p>
 
