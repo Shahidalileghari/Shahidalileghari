@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shahid Ali</h1>
 <h3 align="center">A passionate java developer from Pakistan</h3>
 
-<img size="1200" align="center" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" alt="some error"> 
+<img  align="center" src="https://t4.ftcdn.net/jpg/03/13/40/45/360_F_313404541_e9YZ3pht6oEEkMXuhxTboqXA2B2ShNnC.jpg" size="1200" alt="some error"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shahidali" alt="shahidali" /></a> </p>
 
