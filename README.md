@@ -304,7 +304,7 @@ Explore my repositories to learn more about each project's implementation and so
 - **LinkedIn:** [Shahid Ali Leghari](https://www.linkedin.com/in/shahid-ali-leghari/)
 - **Instagram:** [My Instagram](https://www.instagram.com/shahid_alilaghari/)
 - **Portfolio:** [My Portfolio](https://shahidalileghari.github.io/shahid-portfolio/).
-- **Email:** [LinkedIn](www.linkedin.com/in/shahid-ali-leghari).
+- **Email:** [Email](shahidalileghari2021@gmail.com).
 
 ---
 
