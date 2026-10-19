@@ -120,8 +120,8 @@ A responsive website presenting my education, skills, and software projects.
 - **GitHub:** [@Shahidalileghari](https://github.com/Shahidalileghari)
 - **LinkedIn:** [Shahid Ali Leghari](https://www.linkedin.com/in/shahid-ali-leghari/)
 - **Instagram:** [My Instagram](https://www.instagram.com/shahid_alilaghari/)
-- **Portfolio:**(https://shahidalileghari.github.io/shahid-portfolio/) .
-- **Email:**(shahidalileghari2021@gmail.com).
+- **Portfolio:**[Portfolio](https://shahidalileghari.github.io/shahid-portfolio/) .
+- **Email:**[Email](shahidalileghari2021@gmail.com).
 
 ---
 
