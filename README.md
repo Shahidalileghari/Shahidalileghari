@@ -303,8 +303,8 @@ Explore my repositories to learn more about each project's implementation and so
 - **GitHub:** [@Shahidalileghari](https://github.com/Shahidalileghari)
 - **LinkedIn:** [Shahid Ali Leghari](https://www.linkedin.com/in/shahid-ali-leghari/)
 - **Instagram:** [My Instagram](https://www.instagram.com/shahid_alilaghari/)
-- **Portfolio:** Add your live portfolio URL here.
-- **Email:** Add your professional email address here.
+- **Portfolio:** [My Portfolio](https://shahidalileghari.github.io/shahid-portfolio/).
+- **Email:** www.linkedin.com/in/shahid-ali-leghari.
 
 ---
 
